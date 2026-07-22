@@ -4,12 +4,11 @@
 
 ### Full-Stack Developer • Cloud Enthusiast • Final-Year CS Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines= Building+full-stack+web+apps+with+React+%26+Node.js;Exploring+AWS+cloud+architecture;Learning+3D+design+in+Blender;Always+shipping+something+new" alt="Typing SVG" />
-
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vinaygore_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-gore-b2832328a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vinay_1112/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaygore511@gmail.com)
 
 </div>
