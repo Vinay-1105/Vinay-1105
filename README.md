@@ -20,7 +20,7 @@
 - 🎓 Final-year **B.Tech CS (Cloud Computing & Automation)** student
 - 💻 Building full-stack apps with **React, Node.js, MongoDB, and AWS**
 - ☁️ Currently deepening my skills in **AWS cloud architecture & deployment**
-- 🎨 Practicing **3D design in Blender** — new territory I'm exploring for fun
+- 🎨 Practicing **3D design in Blender**, new territory I'm exploring for fun
 - 🤝 Open to collaborating on **web dev, cloud-native, and scalable real-world projects**
 - 🧠 Actively looking for guidance on **advanced AWS services & cloud architecture design**
 
