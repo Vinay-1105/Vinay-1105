@@ -49,7 +49,7 @@ I build practical software, create user-focused applications, and explore cloud 
 - Built a reusable dark-mode design system with custom styling, animated UI components, and a LinkedIn-style follow/connect feature.
 - Resolved styling specificity and animation-related UI conflicts.
 
-[Repository Link]([https://github.com/Vinay-1105](https://github.com/Vinay-1105/ExigentCX))
+[Repository Link](https://github.com/Vinay-1105/ExigentCX)
 
 ### 2. Potato Disease Classification Using CNN
 
@@ -60,7 +60,7 @@ I build practical software, create user-focused applications, and explore cloud 
 - Implemented image augmentation and a 70/20/10 train-validation-test split.
 - Built a Streamlit application with under-two-second inference and optimized the model for on-device Android classification using TensorFlow Lite.
 
-[Repository Link]([https://github.com/Vinay-1105](https://github.com/Vinay-1105/Potato-Plant-Disease-Classification-model-Using-CNN))
+[Repository Link](https://github.com/Vinay-1105/Potato-Plant-Disease-Classification-model-Using-CNN)
 
 ---
 
