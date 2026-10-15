@@ -142,6 +142,7 @@ Interested in my work? Visit my portfolio to explore more projects, learn about 
 
 <div align="center">
 
+[![Explore Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-vinaygore.netlify.app-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://vinaygore.netlify.app/)
 
 **Always learning. Always building. Always improving.**
 
