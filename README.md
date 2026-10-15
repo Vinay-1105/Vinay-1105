@@ -4,9 +4,8 @@
 
 ### Software Engineer · Full-Stack Developer · Cloud Enthusiast
 
-Building practical software, creating user-focused applications, and exploring cloud technologies.
+I build practical software, create user-focused applications, and explore cloud technologies.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://vinaygore.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-gore-b2832328a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vinay_1112/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaygore511@gmail.com)
@@ -17,7 +16,7 @@ Building practical software, creating user-focused applications, and exploring c
 
 ## About Me
 
-- Final Year B.Tech CSE student specializing in **Cloud Computing & Automation** at Vellore Institute of Technology.
+- Final-year B.Tech CSE student specializing in **Cloud Computing & Automation** at Vellore Institute of Technology.
 - Former **Software Development Intern at Dragonfruit AI**, working on frontend development, debugging, and AI application testing.
 - Experienced in building responsive interfaces and full-stack web applications using React, Node.js, and databases.
 - Strengthening my knowledge of **AWS and cloud technologies**.
@@ -28,7 +27,7 @@ Building practical software, creating user-focused applications, and exploring c
 
 ## Experience
 
-**Software Development Intern — Dragonfruit AI**
+**Software Development Intern - Dragonfruit AI**
 
 *May 2026 – July 2026 | Remote*
 
@@ -50,7 +49,7 @@ Building practical software, creating user-focused applications, and exploring c
 - Built a reusable dark-mode design system with custom styling, animated UI components, and a LinkedIn-style follow/connect feature.
 - Resolved styling specificity and animation-related UI conflicts.
 
-[Explore my GitHub repositories](https://github.com/Vinay-1105)
+[Repository Link]([https://github.com/Vinay-1105](https://github.com/Vinay-1105/ExigentCX))
 
 ### 2. Potato Disease Classification Using CNN
 
@@ -61,7 +60,7 @@ Building practical software, creating user-focused applications, and exploring c
 - Implemented image augmentation and a 70/20/10 train-validation-test split.
 - Built a Streamlit application with under-two-second inference and optimized the model for on-device Android classification using TensorFlow Lite.
 
-[View my repositories](https://github.com/Vinay-1105)
+[Repository Link]([https://github.com/Vinay-1105](https://github.com/Vinay-1105/Potato-Plant-Disease-Classification-model-Using-CNN))
 
 ---
 
@@ -114,8 +113,8 @@ Building practical software, creating user-focused applications, and exploring c
 - 🥇 **1st Prize** — Android Club Coding Event, VIT Bhopal.
 - 🚀 **Top 83 Teams** — Pragati AI Hackathon by Meta, Hack2Skill.
 - Google IT Support Professional Certificate.
-- Applied Machine Learning in Python — University of Michigan.
-- Cloud Computing and Distributed Systems — NPTEL.
+- Applied Machine Learning in Python (University of Michigan).
+- Cloud Computing and Distributed Systems (NPTEL).
 
 ---
 
